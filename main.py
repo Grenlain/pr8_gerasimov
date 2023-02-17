@@ -1,6 +1,6 @@
 import random
 
-chars = 'abcdefghijkl'
+chars = '+-/*!&$#&=@<>abcdefghijklmopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('Количество паролей?'+"\n"
 length = input('длина паролей?'+"\n"
 number = int(number)
